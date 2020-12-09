@@ -1,0 +1,21 @@
+body {
+    font-family: din-condensed, sans-serif;
+font-weight: 400;}
+
+h1 {font-weight: 700;
+    color: #C0001C;
+
+}
+.faceshot {
+    width: 250px
+}
+
+p {color: black;}
+.box {
+        border: 10px solid black;
+        padding: 50px;
+        margin: 20px;
+      }
+ .port {width: 350px;}  
+ 
+ .row {padding: 5px;}
